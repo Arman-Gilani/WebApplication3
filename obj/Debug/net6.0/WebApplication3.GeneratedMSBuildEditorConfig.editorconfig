@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication3
+build_property.RootNamespace = WebApplication3
+build_property.ProjectDir = D:\ARMAN\ASP.NET PROGRAMS\WebApplication3\WebApplication3\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ARMAN\ASP.NET PROGRAMS\WebApplication3\WebApplication3
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_City/LOC_City_Add_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX0NpdHlcTE9DX0NpdHlfQWRkX0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_City/LOC_City_List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX0NpdHlcTE9DX0NpdHlfTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_City/LOC_City_Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX0NpdHlcTE9DX0NpdHlfVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_Country/LOC_Country_Add_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlfQWRkX0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_Country/LOC_Country_List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlfTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_Country/LOC_Country_Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlfVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_State/LOC_State_Add_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX1N0YXRlXExPQ19TdGF0ZV9BZGRfRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_State/LOC_State_List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX1N0YXRlXExPQ19TdGF0ZV9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/LOC_State/LOC_State_Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX1N0YXRlXExPQ19TdGF0ZV9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication3/WebApplication3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7kk3sr3rte

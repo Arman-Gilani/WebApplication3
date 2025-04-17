@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f0f0f0;
+			margin: 0;
+			padding: 0;
+			justify-content: center;
+			align-items: center;
+			min-height: 100vh;
+		}
+
+		.form-container {
+			background-color: #fff;
+			padding: 20px;
+			border-radius: 8px;
+			box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+			width: 300px;
+			transform: translate(170%, 20%);
+		}
+
+		.form-group {
+			margin-bottom: 15px;
+		}
+
+		label {
+			display: block;
+			margin-bottom: 5px;
+			font-weight: bold;
+		}
+
+		input[type="text"] {
+			width: 100%;
+			padding: 8px;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			font-size: 14px;
+		}
+
+		input[type="submit"] {
+			background-color: #007bff;
+			color: #fff;
+			padding: 10px 15px;
+			border: none;
+			border-radius: 4px;
+			cursor: pointer;
+			font-size: 14px;
+		}
+
+			input[type="submit"]:hover {
+				background-color: #0056b3;
+			}
+	</style>
+
+	<title>Country Form</title>
+</head>
+<body>
+	<div class="form-container">
+		<form action="#" method="post">
+			<div class="form-group">
+				<label for="cityID">CityID:</label>
+				<input type="text" id="cityID" name="cityID" required>
+			</div>
+			<div class="form-group">
+				<label for="cityName">CityName:</label>
+				<input type="text" id="cityName" name="cityName" required>
+			</div>
+			<div class="form-group">
+				<label for="stateID">StateID:</label>
+				<input type="text" id="stateID" name="stateID" required>
+			</div>
+			<div class="form-group">
+				<label for="countryID">CountryID:</label>
+				<input type="text" id="countryID" name="countryID" required>
+			</div>
+			<div class="form-group">
+				<label for="cityCode">CityCode:</label>
+				<input type="text" id="cityCode" name="cityCode" required>
+			</div>
+			<input type="submit" value="Submit">
+		</form>
+	</div>
+</body>
+</html>
